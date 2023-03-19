@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yiran
-- 👀 I’m interested in League of Legends
-- 🌱 I’m currently learning C, python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CS
+- 🌱 I’m currently learning verilog, rust
+- 💞️ I’m looking to collaborate on OS
 - 📫 How to reach me ：<a>home.ustc.edu.cn/~amberzheng</a>
 
 <!---
