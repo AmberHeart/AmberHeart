@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning verilog, rust
 - 💞️ I’m looking to collaborate on OS
-- 📫 How to reach me ：<a>home.ustc.edu.cn/~amberzheng</a>
+- 📫 How to reach me ：<---.--->
 
 <!---
 AmberHeart/AmberHeart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
