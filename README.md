@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yiran
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning verilog, rust
-- 💞️ I’m looking to collaborate on OS
+- 🌱 I’m currently learning verilog, java
+- 💞️ I’m looking to collaborate on Minecraft
 - 📫 How to reach me ：<---.--->
 
 <!---
