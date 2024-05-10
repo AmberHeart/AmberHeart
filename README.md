@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yiran
-- 👀 I’m interested in CG
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on CG
+- 👀 I’m interested in CG, CV, 3D-Reconstruction
+- 🌱 I’m currently learning c++, matlab, python, Blender...
 - 📫 How to reach me ：amberzheng@mail.ustc.edu.cn
 
 <!---
