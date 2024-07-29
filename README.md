@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Yiran
-- 👀 I’m interested in CG, CV, AIGC
-- 🌱 I’m currently learning c++, matlab, python, Blender...
+- 👋 Hi, I’m @Yiran, from school of computer science and technology at USTC
+- 👀 I’m currently researching on fields of 3DGS, AIGC & 3D-VISION...
 - 📫 How to reach me ：amberzheng@mail.ustc.edu.cn
 
 <!---
