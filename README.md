@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yiran, from school of computer science and technology at USTC
-- 👀 I’m currently researching on fields of 3DGS, AIGC & 3D-VISION...
+- 👀 I’m currently researching on fields of CG, AIGC & 3D-VISION...
 - 📫 How to reach me ：amberzheng@mail.ustc.edu.cn
 
 <!---
