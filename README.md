@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Wenzheng Chang, from the School of Computer Science and Technology at USTC
-- 👀 I’m currently researching the fields of Embodied AI & 3D-VISION & Compuet Graphics...
-- 📫 How to reach me：amberzheng412@gmail.com
+# 👋 Hi there, I'm Wenzheng Chang
+
+🎓 **B.Sc. in Computer Science**, University of Science and Technology of China (USTC)  
+🎓 **Ph.D. Candidate**, Shanghai Jiao Tong University (SJTU)  
+
+👀 **Research Interests**: World Models · 3D Vision · Computer Graphics  
+
+📫 **Contact**: amberheart@sjtu.edu.cn
+
 
 <!---
 AmberHeart/AmberHeart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
