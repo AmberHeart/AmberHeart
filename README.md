@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Wenzheng Chang
 
-🎓 **B.Sc. in Computer Science**, University of Science and Technology of China (USTC)  
+🎓 **B.Eng. in Computer Science**, University of Science and Technology of China (USTC)  
 🎓 **Ph.D. Candidate**, Shanghai Jiao Tong University (SJTU)  
 
-👀 **Research Interests**: World Models · 3D Vision · Computer Graphics  
+👀 **Research Interests**: World Models · Multi-Modal · 3D Vision · Computer Graphics  
 
 📫 **Contact**: amberheart@sjtu.edu.cn
 
